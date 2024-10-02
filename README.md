@@ -8,15 +8,13 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 😀 I'm a student engineer.
-- 🌱 I’m currently learning TypeScript、Golang、Pyhton、Java!
+- 🌱 I’m currently learning TypeScript、Golang、Python、Java
 - 🧑‍💻 I’m currently working on Kaizen Platform.
 <br>
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,vue,java,figma,python,django,go,firebase,supabase" />
+## 🌱 MY Skills
+<h3>Main Skills</h3>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,jquery,react,next,firebase,mongo" />
+<h3>Sub Skills</h3>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,java,python,django,go,supabase,mysql,figma" />
 <br>
-
