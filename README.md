@@ -10,7 +10,7 @@
 - 😀 I'm a student engineer.
 - 🫠 I'm particularly interested in performance tuning for front-end development.
 - 💻 I’m currently learning TypeScript、Golang、Python、Java.
-- 🧑‍💻 I’m currently working on Kaizen Platform.
+- 🧑‍💻 I'm currently working at Kaizen Platform as an engineer.
 <br>
 
 ## 🌱 MY Skills
