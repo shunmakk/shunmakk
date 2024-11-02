@@ -17,5 +17,5 @@
 <h3>Main Skills</h3>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,jquery,react,next,express,postgresql,prisma,firebase,mongo" />
 <h3>Sub Skills</h3>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,java,python,django,go,supabase,mysql,figma,wordpress" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,java,python,django,go,supabase,mysql,php,laravel,wordpress,figma," />
 <br>
