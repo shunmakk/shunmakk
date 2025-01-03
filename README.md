@@ -8,9 +8,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 😀 I'm a student engineer.
-- 🫠 I'm interested in performance tuning and UIUX improvements for front-end development.
+- 🫠 I am interested in performance tuning and architectural innovation for front-end development..
 - 💻 I’m currently learning TypeScript、Golang、Python、Java.
-- 🧑‍💻 I'm currently working at Kaizen Platform as an engineer.
+- 🧑‍💻 I'm currently working as an engineer at Kaizen Platform Inc.
 <br>
 
 ## 🌱 MY Skills
