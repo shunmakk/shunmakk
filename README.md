@@ -15,7 +15,7 @@
 
 ## 🌱 MY Skills
 <h3>Main Skills</h3>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,jquery,react,next,express,postgresql,prisma,firebase,mongo" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,jquery,react,next,express,postgresql,prisma,firebase,mongo,redux,mui" />
 <h3>Sub Skills</h3>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,java,python,django,go,supabase,mysql,php,laravel,wordpress,figma," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vue,java,python,django,go,supabase,mysql,php,wordpress,figma," />
 <br>
