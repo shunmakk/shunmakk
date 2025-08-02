@@ -9,7 +9,7 @@
 
 - 😀 I'm a student engineer.
 - 🫠 I am interested in architectural innovation for front-end development..
-- 💻 I’m currently learning TypeScript、Golang、Python、Java.
+- 💻 I am currently studying mainly TypeScript, Python, and Java.
 - 🧑‍💻 I'm currently working as an engineering intern at Kaizen Platform Inc.
 <br>
 
