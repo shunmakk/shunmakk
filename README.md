@@ -8,8 +8,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 😀 I'm a student engineer.
-- 🫠 I am interested in architectural innovation for front-end development..
-- 💻 I am currently studying mainly TypeScript, Python, and Java.
+- 🫠 I am interested in revamping legacy front-end systems and building design systems.
+- 💻 I am skilled in development using mainly TypeScript.
 - 🧑‍💻 I'm currently working as an engineering intern at Kaizen Platform Inc.
 <br>
 
