@@ -5,8 +5,9 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-- 🧑‍💻 Worked as an Engineering Intern at Kaizen Platform Inc. (May 2024 – Mar 2026)
+## 🧑‍💻 Job
+- Worked as an Engineering Intern at Kaizen Platform Inc. (May 2024 – Mar 2026)
+- Starting my career as a Software Engineer at Rakus Co., Ltd. in April 2026, eager to contribute to building better SaaS products.
 <br>
 
 ## 🌱 MY Skills
