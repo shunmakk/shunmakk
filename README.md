@@ -11,5 +11,5 @@
 <br>
 
 ## 🌱 MY Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,jquery,react,next,express,postgresql,prisma,vue,python,fastapi,vercel,rails" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,jquery,react,next,express,postgresql,prisma,java,spring,vue,python,fastapi,vercel,rails" />
 
