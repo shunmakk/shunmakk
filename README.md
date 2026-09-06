@@ -6,9 +6,10 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## 🧑‍💻 Job
-- Worked as an Engineering Intern at Kaizen Platform Inc. (May 2024 – Mar 2026)
-- Starting my career as a Software Engineer at Rakus Co., Ltd. in April 2026, eager to contribute to building better SaaS products.
-- I am studying primarily Vue.js and PHP for work purposes.
+- Software Engineer at Rakus Co., Ltd. (Apr 2026 – Present)
+- Former Engineering Intern at Kaizen Platform Inc. (May 2024 – Mar 2026)
+- Working as a frontend-focused full-stack engineer, mainly using Vue.js, TypeScript, PHP, and Flow to build SaaS products.
+- Interested in frontend architecture, UI/UX implementation, and building maintainable web applications.
 <br>
 
 ## 🌱 MY Skills
